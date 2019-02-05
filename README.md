@@ -1,23 +1,21 @@
 # Protractor - End to End automation
 
-
-
-Funciontal tests QANinja Protractor Course
+TEste funcionais - Curso QANINJA Protractor Curso
 
 > App [(link)](https://ninjainvoices.herokuapp.com/)
 
-The structure is based on two layers: steps and pages.
+A estrutura é baseada em duas camadas: etapas e páginas.
 
-1. Steps: Contains all the steps implementations;
-2. POs contains all the elements required for execution.
-3. POs separated by functionality
+1. Passos: Contém todas as implementações das etapas;
+2. POs contém todos os elementos necessários para a execução.
+3. POs separados por funcionalidade
 
-## Pre Conditions
+## Pre Condição
 
 1. Node.js (https://nodejs.org/en/)
 2. Chromedriver
 
-## Instalation
+## Instalação
 
 Install it as:
 
