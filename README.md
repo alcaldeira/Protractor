@@ -1,6 +1,6 @@
 # Protractor - End to End automation
 
-TEste funcionais - Curso QANINJA Protractor Curso
+Teste funcionais - Curso QANINJA Protractor Curso
 
 > App [(link)](https://ninjainvoices.herokuapp.com/)
 
